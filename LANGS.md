@@ -1,6 +1,7 @@
 * [English](en)
 * [Español](es)
 * [Català](ca)
+* [French](fr)
 * [Hindi](hi)
 * [Magyar](hu)
 * [Portuguese](pt_br)
